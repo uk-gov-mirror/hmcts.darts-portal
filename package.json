@@ -80,7 +80,6 @@
   },
   "resolutions": {
     "@angular/*": "20.2.7",
-    "axios": "1.15.0",
     "micromatch": "^4.0.8",
     "send": "^1.0.0",
     "cookie": "^1.0.0",
@@ -92,7 +91,8 @@
     "qs": "6.14.2",
     "jws": "3.2.3",
     "undici": "7.24.0",
-    "lodash": "^4.18.1"
+    "lodash": "^4.18.1",
+    "axios": "1.15.0"
   },
   "devDependencies": {
     "@angular-builders/custom-webpack": "^20.0.0",
